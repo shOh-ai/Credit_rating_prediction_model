@@ -3,6 +3,6 @@ R code for "Development of a credit rating prediction model using credit indicat
 
 Analysis Method: Multiple linear regression analysis, XGB, RF, NN
 
-R Code: (rmd, html file)
+R Code: (pdf file)
 
 Summary report: (pdf file)
